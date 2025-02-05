@@ -1,0 +1,1 @@
+export { externalAPIResponseSchema } from "./ExternalAPIResponse";
